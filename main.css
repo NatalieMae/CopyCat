@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    
+    color: navy;
+    padding: 10px 10px;
+}
+h1 {
+    background-color: rgb(39, 128, 39);
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+p {
+    color: #000000;
+    text-align:justify;
+   
+}
+h5 {
+    font-size:smaller;
+}
