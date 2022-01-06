@@ -1,9 +1,11 @@
+* {
+    border: 1px solid teal;
+    border-style: hidden;
+}
+
 body {
-    display: flex;
-    flex-direction: column;
-    
-    color: navy;
-    padding: 10px 10px;
+        margin:0;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1 {
     background-color: rgb(39, 128, 39);
@@ -33,10 +35,14 @@ h5 {
     text-align: left;
     font-size: 13px ;
     font-weight:bold;
+    
+    
 }
 .Drone {
     background-image: url(../CopyCat/210306\ WPark\ Drone\ Sunset.jpg);
     background-size:600px;
-    
-    
+}
+.container-fluid {
+    background-color: teal;
+    font-variant-position: super  ;
 }
